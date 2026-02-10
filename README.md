@@ -1,4 +1,4 @@
-# dota-trajectory-analysis
+# moba-trajectory-analysis
 
 ![](https://github.com/KASDmusic/moba-trajectory-analysis/blob/main/rapport/rapport_img/Rapport_projet_dota_page-0001.jpg)
 ![](https://github.com/KASDmusic/moba-trajectory-analysis/blob/main/rapport/rapport_img/Rapport_projet_dota_page-0002.jpg)
